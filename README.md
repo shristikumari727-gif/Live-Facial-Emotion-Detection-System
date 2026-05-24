@@ -16,6 +16,7 @@ Core Libraries: FER, OpenCV, NumPy
 Environment: Google Colab (utilizing google.colab.output and eval_js)
 📋 Prerequisites
 To run this in Colab, you need to install the following:
+<img width="590" height="502" alt="image" src="https://github.com/user-attachments/assets/1be3afcb-cdea-40a6-b3d4-e8d3d8409798" />
 
 pip install fer opencv-python
 🔧 How It Works
