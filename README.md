@@ -1,4 +1,4 @@
-```markdown
+
 # Facial Emotion Detection
 
 This project demonstrates a real-time facial emotion detection system using OpenCV and the `fer` (Face Emotion Recognition) library. It can process static images and also includes a section for live camera feed processing (designed for local execution).
